@@ -14,7 +14,7 @@ This page contains a list of publicly available custom repos for [Dalamud](https
 * The plugins from your chosen repo will now show up under "Available Plugins" like any others.
 
 ## What each repo contains, and what each plugin briefly does. 
-### [ascclemens](https://github.com/ascclemens) 
+### [Anna/ascclemens](https://github.com/ascclemens) 
 Custom Repo Link: https://git.sr.ht/~jkcclemens/plugin_repo/blob/master/pluginmaster.json
 Plugin | Description
 ------------ | -------------
